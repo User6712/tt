@@ -1,1 +1,1 @@
-{"autoexec":false,"clfilter":[11111,1111111],"clfiltertype":"Exclude","clsrc":"print(\"hello client\")","executedCount":1,"src":"print(123)"}
+{"autoexec":true,"clfilter":[11111,1111111],"clfiltertype":"Exclude","clsrc":"print(\"hello client\")","executedCount":1,"src":"print(123)"}
